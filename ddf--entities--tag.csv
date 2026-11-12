@@ -10,7 +10,7 @@ invest,Investering,
 styrm,Ekonomiska styrmedel,
 ekonomi,Ekonomi,
 handel,Handel,
-produkter,,
+produkter,Produkter,
 transp_prod, Produktionsvärde,transp
 transp_foradl, Förädlingsvärde,transp
 transp_syssels, Sysselsatta,transp
@@ -18,4 +18,10 @@ ant_foretag,Antal Företag,ekonomi
 transp_utslapp,Växthusgaser per capita,transp
 miljo_syssels, Sysselsatta,miljo_sek
 miljo_foradl, Förädlingsvärde,miljo_sek
+utslapp,Utsläpp,
+miljo_sek,Miljösektorn,
+transp,Transportsektorn,
+foradl,Förädlingsvärde,ekonomi
+lopande,Löpande priser,foradl
+valuta_dollar,Dollar,lopande
 kategori,Kategori,
